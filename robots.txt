@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aigahquoot.jsonpatch.com/sitemap.xml
